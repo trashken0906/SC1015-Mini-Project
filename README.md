@@ -40,7 +40,7 @@ Explored,visualized and provided insights to the following
 * How to use Github
 * Logistic Regression Models
 * Random Forest MOdels
-* PLotting correlation matrix with categorical data
+* Plotting correlation matrix with categorical data
 * We can improve our models through hyperparameter tuning of the random forest
 
 
