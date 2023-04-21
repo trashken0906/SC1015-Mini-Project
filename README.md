@@ -21,7 +21,7 @@ How different variables affect the probability of the white side winning?
 * Randomly selectly half of the total number of data points
 * Export data as csv
 
-## EDA % Visualisation
+## EDA & Visualisation
 Explored,visualized and provided insights to the following
 * Rated v Non-Rated Games
 * Different Victory Status 
